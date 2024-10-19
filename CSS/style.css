@@ -1,0 +1,94 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url("D:\\CS\\Web dev\\Git_repos\\HTML-CSS\\Media\\cofee.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.menu {
+    background-color: #deb887;
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 0px;
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-family: Fantasy, Copperplate;
+    font-weight: bolder;
+    font-size: 40px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+.est{
+    font-weight: 800;
+    padding-top: 0px;
+    margin-top:0px;
+    font-size: 18px;
+}
+hr {
+    border-color: #a52a2a;
+    border-width: 3px;
+}
+h2 {
+    text-align: center;
+    font-family: Fantasy, Copperplate;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.coffee_icon{
+    margin-left: 270px;
+    margin-top: 0px;
+}
+.cofee_menu{
+    display: flex;
+}
+.item1{
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.price1 {
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 300px;
+}
+.pie_icon {
+    margin-left: 270px;
+    margin-top: 0px;
+}
+.desserts_menu{
+    display:flex;   
+}
+.item2 {
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.price2 {
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 335px;
+}
+footer{
+text-align: center;
+}
+a{
+    color: black;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.address{
+    padding:20px;
+    margin-top: 0px;
+}
