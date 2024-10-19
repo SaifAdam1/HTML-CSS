@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background-image: url("D:\\CS\\Web dev\\Git_repos\\HTML-CSS\\Media\\cofee.jpg");
+    background-image: url("../Media/cofee.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
